@@ -15,13 +15,10 @@ Try running the following commands:
 
 
 ## Resources:
-* [Medium Article](https://medium.com/@yusuf.ganiyu/robust-data-pipelines-with-databricks-spark-dbt-and-azure-data-engineering-project-e5780fbc07a6)
 * [DBT](https://docs.getdbt.com/guides)
 * [Databricks](https://docs.databricks.com/)
 * [Azure](https://docs.microsoft.com/en-us/azure/?product=featured)
 * [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/)
 * [Azure Data Lake Storage Gen2](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
 
-### Youtube Video
-[![Modern Data Engienering](https://img.youtube.com/vi/divjURi-low/0.jpg)](https://youtu.be/divjURi-low)
 
